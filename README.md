@@ -74,6 +74,42 @@ Desktop app that drives DualSense adaptive triggers, voice-coil rumble, and ligh
   <a href="https://buymeacoffee.com/alt3red"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="bmc"></a>
 </p>
 
+<br>
+
+#### [DesktopConsole](https://github.com/AlteredAJ/DesktopConsole)
+
+A controller-first, 10-foot Windows couch launcher. Pick up a DualSense, triple-tap PS — your full-screen console appears.
+
+<table>
+<tr>
+<td width="50%">
+
+- **Controller-first navigation** — D-pad, stick, touchpad gestures. Cross select, Circle back
+- **DualSense integration** — Haptics, lightbar sync, battery meter, trackpad-as-mouse
+- **GPU fluid backgrounds** — Live WebGL simulations, three presets, zero-cost rendering
+- **Glass UI** — Frosted glass, specular bloom, accent-glow focus indicators
+- **Quick Menu overlay** — Double-tap PS mid-game for volume, RGB, capture
+- **OpenRGB control** — Cycle and set RGB scenes on lightbar and motherboard LEDs
+
+</td>
+<td width="50%">
+
+| Key Metrics | |
+|---|---|
+| Language | Rust, TypeScript, CSS |
+| License | MIT |
+| Platform | Windows 11 x64 |
+| Engine | Tauri 2 + React 19 + Vite 5 |
+| Site | [alteredaj.github.io/DesktopConsole](https://alteredaj.github.io/DesktopConsole/) |
+
+</td>
+</tr></table>
+
+<p align="center">
+  <a href="https://github.com/AlteredAJ/DesktopConsole"><img src="https://img.shields.io/badge/View_on_GitHub-5b9cf5?style=for-the-badge&logo=github" alt="github"></a>
+  <a href="https://alteredaj.github.io/DesktopConsole/"><img src="https://img.shields.io/badge/Landing_Page-111?style=for-the-badge" alt="site"></a>
+</p>
+
 ---
 
 ### Stack
