@@ -32,17 +32,17 @@ I build software that connects hardware to games. Currently shipping **[Universa
 
 <p align="center">
   <a href="https://github.com/AlteredAJ/dualsense-haptics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlteredAJ&repo=dualsense-haptics&theme=github_dark&hide_border=true&description_lines_count=3" alt="dualsense-haptics">
+    <img src="https://raw.githubusercontent.com/AlteredAJ/dualsense-haptics/release-free/src-tauri/icons/128x128.png" width="40" align="left" style="margin-right:12px">
   </a>
 </p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 #### [Universal DualSense Haptics](https://github.com/AlteredAJ/dualsense-haptics)
 
 Desktop app that drives DualSense adaptive triggers, voice-coil rumble, and lightbar from real game data.
+
+<table>
+<tr>
+<td width="50%">
 
 - **Six haptic profiles** — Racing, Gun, Melee, Audio Reactive, Minecraft, Static
 - **Telemetry-driven** — Forza Horizon/Motorsport, F1 23, Assetto Corsa via UDP
@@ -52,11 +52,9 @@ Desktop app that drives DualSense adaptive triggers, voice-coil rumble, and ligh
 - **The Lab** — live preview, per-weapon tuning sliders, Racing Lab curves
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-#### Key Metrics
-
-| Metric | |
+| Key Metrics | |
 |---|---|
 | Language | Rust, JS, CSS |
 | License | MIT (free) / Proprietary (paid) |
