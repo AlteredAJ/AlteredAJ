@@ -7,7 +7,8 @@
 <p align="center"><strong>Systems & haptics engineer. Rust, Tauri, DSP, game telemetry.</strong></p>
 
 <p align="center">
-  <a href="https://alt3red.gumroad.com/l/universal-dualsense-haptics"><img src="https://img.shields.io/badge/Gumroad-Support-ff90e8?style=flat-square&logo=gumroad&logoColor=white" alt="gumroad"></a>
+  <a href="https://buymeacoffee.com/alt3red"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="bmc"></a>
+  <a href="https://alt3red.gumroad.com/l/universal-dualsense-haptics"><img src="https://img.shields.io/badge/Gumroad-%244-ff90e8?style=flat-square&logo=gumroad&logoColor=white" alt="gumroad"></a>
   <a href="https://alteredaj.github.io/dualsense-haptics/"><img src="https://img.shields.io/badge/Website-Landing_Page-4fc3ff?style=flat-square" alt="website"></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin" alt="linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=AlteredAJ&style=flat-square&color=4fc3ff" alt="views">
@@ -70,6 +71,7 @@ Desktop app that drives DualSense adaptive triggers, voice-coil rumble, and ligh
 <p align="center">
   <a href="https://github.com/AlteredAJ/dualsense-haptics/releases"><img src="https://img.shields.io/badge/⬇_Download_Free-2ea043?style=for-the-badge" alt="free"></a>
   <a href="https://alt3red.gumroad.com/l/universal-dualsense-haptics"><img src="https://img.shields.io/badge/🔓_Full_Immersion_$4-4fc3ff?style=for-the-badge" alt="paid"></a>
+  <a href="https://buymeacoffee.com/alt3red"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="bmc"></a>
 </p>
 
 ---
@@ -91,6 +93,7 @@ Desktop app that drives DualSense adaptive triggers, voice-coil rumble, and ligh
   <sub>
     <a href="https://github.com/AlteredAJ">github</a> ·
     <a href="https://alt3red.gumroad.com/l/universal-dualsense-haptics">gumroad</a> ·
+    <a href="https://buymeacoffee.com/alt3red">buy me a coffee</a> ·
     <a href="https://alteredaj.github.io/dualsense-haptics/">landing page</a>
   </sub>
 </p>
