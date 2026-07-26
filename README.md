@@ -10,7 +10,7 @@
   <a href="https://buymeacoffee.com/alt3red"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="bmc"></a>
   <a href="https://alt3red.gumroad.com/l/universal-dualsense-haptics"><img src="https://img.shields.io/badge/Gumroad-%244-ff90e8?style=flat-square&logo=gumroad&logoColor=white" alt="gumroad"></a>
   <a href="https://alteredaj.github.io/dualsense-haptics/"><img src="https://img.shields.io/badge/Website-Landing_Page-4fc3ff?style=flat-square" alt="website"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/ajapaukese"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin" alt="linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=AlteredAJ&style=flat-square&color=4fc3ff" alt="views">
 </p>
 
@@ -30,12 +30,6 @@ I build software that connects hardware to games. Currently shipping **[Universa
 ---
 
 ### Projects
-
-<p align="center">
-  <a href="https://github.com/AlteredAJ/dualsense-haptics">
-    <img src="https://raw.githubusercontent.com/AlteredAJ/dualsense-haptics/release-free/src-tauri/icons/128x128.png" width="40" align="left" style="margin-right:12px">
-  </a>
-</p>
 
 #### [Universal DualSense Haptics](https://github.com/AlteredAJ/dualsense-haptics)
 
@@ -110,6 +104,42 @@ A controller-first, 10-foot Windows couch launcher. Pick up a DualSense, triple-
   <a href="https://alteredaj.github.io/DesktopConsole/"><img src="https://img.shields.io/badge/Landing_Page-111?style=for-the-badge" alt="site"></a>
 </p>
 
+<br>
+
+#### [Simple Jarvis](https://github.com/AlteredAJ/SimpleJarvis)
+
+Personal conversational AI. Speak, interrupt mid-sentence, and get answers grounded in your own Obsidian vault.
+
+<table>
+<tr>
+<td width="50%">
+
+- **Voice-first loop** — continuous dialogue with hard/soft barge-in and grace-window follow-ups
+- **Neural wake word + VAD** — openWakeWord `hey jarvis` + Silero VAD, no ambient false positives
+- **Live transcript HUD** — radial waveform, both sides streaming, interruption markers
+- **Obsidian grounding** — keyword RAG that follows `[[wikilinks]]`, no vector DB
+- **Local TTS** — Kokoro-82M, 54 voices at 3.4× realtime, ElevenLabs fallback
+- **Brain routing** — cheap model for chat, frontier model for hard analysis, local for time/date
+
+</td>
+<td width="50%">
+
+| Key Metrics | |
+|---|---|
+| Language | Python 3.12 / 3.14 |
+| License | MIT |
+| Platform | Windows 11 |
+| TTS | Kokoro-82M · ElevenLabs |
+| Brain | DeepSeek · Claude |
+| Cost | $0 per query on the local path |
+
+</td>
+</tr></table>
+
+<p align="center">
+  <a href="https://github.com/AlteredAJ/SimpleJarvis"><img src="https://img.shields.io/badge/View_on_GitHub-5b9cf5?style=for-the-badge&logo=github" alt="github"></a>
+</p>
+
 ---
 
 ### Stack
@@ -117,7 +147,8 @@ A controller-first, 10-foot Windows couch launcher. Pick up a DualSense, triple-
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=white" alt="rust">
   <img src="https://img.shields.io/badge/Tauri_2-ffc131?style=for-the-badge&logo=tauri&logoColor=black" alt="tauri">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="python">
   <img src="https://img.shields.io/badge/CSS-glass_UI-4fc3ff?style=for-the-badge" alt="css">
   <img src="https://img.shields.io/badge/Cloudflare_Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare">
   <img src="https://img.shields.io/badge/HID-hidapi-333?style=for-the-badge" alt="hid">
